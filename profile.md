@@ -4,7 +4,7 @@ Youngbo Shim (랭보)
 Teaching
 
 2020.09-11 LindyCastle 린디합 중급
-2019.12 WoozooSwing/우주로날아온턱시도정션 찰스턴 워크샵 
+2019.12 WoozooSwing/우주로날아온턱시도정션 찰스턴 워크샵
 2019.06 Bigapple Swingbar 빅토리 빈티지린디합
 2019.07-09 Dreambal 쉐그 초중급
 2019.06-07 Dreambal 쉐그 초급
@@ -32,13 +32,13 @@ Competition
 2021 Battle on the Floor Ad-Allstar M&M 2nd
 2020 ILHC Advanced Classic 3rd (USA)
 2020 KBW Open Strictly 1st
-2020 Seoul Lindy Fest Lindyhop Couple Division 1st 
+2020 Seoul Lindy Fest Lindyhop Couple Division 1st
 2019 Snowball minute Challenge 1st (Sweden)
 2019 Champions Cup Korea Advanced m&m Final
 2019 The Battle Asia Lindyhop Advanced Strictly 3rd
 2019 KBW Balboa Classic 3rd
 2019 The Savoy Cup Vintage Routine 3rd (France)
-2018 Seoul Lindyfest Open Strictly 1st 
+2018 Seoul Lindyfest Open Strictly 1st
 2018 ILHC Open strictly Final (USA)
 2018 B&B Purebal Strictly 3rd
 2018 KLHC Team routine 1st
@@ -72,7 +72,7 @@ Laura Jihyun Hong (홍지)
 Teaching
 
 2020.09~2020.11 Lindy Castle 린디합 중급
-2019.12 WoozooSwing/우주로날아온턱시도정션 찰스턴 워크샵 
+2019.12 WoozooSwing/우주로날아온턱시도정션 찰스턴 워크샵
 2019.07~2021.09 Dreambal 쉐그 초중급
 2019.06~2020.07 Dreambal 쉐그 초급
 2019.06 Bigapple Swingbar 빅토리 빈티지린디합
@@ -89,8 +89,7 @@ Teaching
 2018.04~05 Swing Family 린디합 입문
 2017.11~12 Sweety Swing 린디합 초급
 2017.09~10 Sweety Swing 린디합 입문
-2017.01~02 Swing Kids Daejeon 린디합 초중급                            
-
+2017.01~02 Swing Kids Daejeon 린디합 초중급
 
 Competition
 
@@ -98,7 +97,7 @@ Competition
 2021 Battle on the Floor Ad-Allstar M&M 2nd
 2020 ILHC Advanced Classic 3rd (USA)
 2020 KBW Open Strictly 1st
-2020 Seoul Lindy Fest Lindyhop Couple Division 1st 
+2020 Seoul Lindy Fest Lindyhop Couple Division 1st
 2019 Snowball minute Challenge 1st (Sweden)
 2019 Snowball Open J&J 3rd (Sweden)
 2019 Champions Cup Korea Advanced m&m Final
@@ -107,15 +106,14 @@ Competition
 2019 KLHC Advanced J&J Final
 2018 The Battle Seoul Lindyhop Advanced j&j 3rd 
 2018 KBW Balboa Rookie J&J 1st
-2017 The Battle Daejeon Lindyhop Open strictly 1st 
-2016 The Battle korea Lindyhop Open j&j 3rd 
-2016 The Battle Daejeon Lindyhop advanced j&j 3rd 
+2017 The Battle Daejeon Lindyhop Open strictly 1st
+2016 The Battle korea Lindyhop Open j&j 3rd
+2016 The Battle Daejeon Lindyhop advanced j&j 3rd
 2016 Snowball Lindyhop Open J&J Final (Sweden)
 2016 7th Crazy Leg Lindy Open J&J 1st place
 2015 The battle Korea Lindyhop Rookie J&J 1st Place
 2015 5th Crazy Leg Lindy Rookie J&J 3rd place
 2014 딴따라댄스홀 연말파티 Team Showcase 1st
-
 
 Performance
 
@@ -126,7 +124,7 @@ Performance
 2019.12 WoozooSwing 우주로날아온턱시도정션 공연
 2019.10 서울정원박람회 축하공연
 2019.08 태국 DIGA DIGA DOO 초청공연
-2019.08 Boost Party 초대공연 
+2019.08 Boost Party 초대공연
 2019.04~2021.06 스윙댄스 공연팀 Tuxedo junction 활동
 2015.05 대한민국역사박물관 주관 박물관! 춤추고노래하다 공연
 2015.05 서울시 지구촌 나눔 한마당 공연
